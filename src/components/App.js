@@ -68,7 +68,7 @@ export default () => (
 							))}
 							{renderPagination()}
 						</div>
-						<div className="map-container">{renderMap()}</div>
+						
 					</div>
 				)}
 				renderData={data => ({
